@@ -4,7 +4,7 @@ Sou Desenvolvedor de Software Full-Stack.
 
 Porém, a minha area de especialização é Back-end.
 
-Atualmente, estou estudando TypeScript com AdonisJS.
+Atualmente, estou estudando TypeScript com NestJS e Prisma.
 ##
 <div align="center">
   <a href="https://github.com/denisquintasluiz">
